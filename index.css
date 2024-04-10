@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather';
+
+}
+
+body{
+    width: 100%;
+    background-color: #F6F6EA;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 85px;
+
+}
+
+nav{
+    display: flex;
+    gap: 24px;
+    margin-top: 20px;
+}
+
+nav>a{
+    font-size: 24px;
+    color: #BFA57D;
+}
+
+.Diferent{
+    color:#895D2D ;
+}
+
+.language{
+    width: 121px;
+    height: 50px;
+    color: black;
+    background-color: white;
+    border: #DEDEDE solid 2px;
+}
+
+button{
+   width: 170px;
+   height: 50px;
+   color: #C4C4C4;
+   background-color: #895D2D;
+   border: #895D2D solid 1px; 
+}
+
+.ButtonH{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
+/* header concluido */
+
+main>img{
+    width: 100%;
+}
+
+h1{
+    font-size: 55px;
+    color: #895D2D;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.navMain{
+    display: flex;
+    gap: 55px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.brown{
+    color: #895D2D;
+}
+
+.chandelier{
+    width: 570px;
+    height: 427px;
+    margin-top: 150px;
+}
+
+.TheSpaEtiquette{
+    width:699px ;
+    height: 427px;
+    color: #3B4248;
+    background-color:#BFA57D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.TheSpaEtiquette>h1{
+    color: #3B4248;
+    font-size: 35px;
+}
+
+
+.TheSpaEtiquette>p{
+    margin-top: 135px;
+    font-size: 16px;
+    width: 499px;
+    height: 192px;
+   
+
+}
