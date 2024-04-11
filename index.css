@@ -56,6 +56,10 @@ button{
 }
 /* header concluido */
 
+main {
+    width: 100%;
+
+}
 main>img{
     width: 100%;
 }
@@ -82,7 +86,7 @@ h1{
 .chandelier{
     width: 570px;
     height: 427px;
-    margin-top: 150px;
+    padding-right: 100px;
 }
 
 .TheSpaEtiquette{
@@ -90,6 +94,7 @@ h1{
     height: 427px;
     color: #3B4248;
     background-color:#BFA57D;
+    gap: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -104,11 +109,52 @@ h1{
 }
 
 
-.TheSpaEtiquette>p{
-    margin-top: 135px;
+.container-text {
+    border: 1px solid red;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.TheSpaEtiquette> p {
     font-size: 16px;
     width: 499px;
     height: 192px;
-   
+}
+
+.arrival {
+    width: 698.48px;
+    height: 800px;
+    background-color: #895D2D;
+    color: white;
+}
+
+.arrival > p {
+    display: flex;
+    justify-content: center;
+    width: 498.48px;
+    height: 800px;
+    font-size: 16px;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+.bathhouses {
+    width: 698.48px;
+    height: 776px;
+}
+
+.bathhouses > p {
+    display: flex;
+    justify-content: center;
+    width: 467.56px;
+    height: 576px;
+    font-size: 16px;
+    padding-top: 100px;
+    padding-left: 40px;
 
 }
+
+
