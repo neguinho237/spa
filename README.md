@@ -56,5 +56,19 @@ Independentemente da ferramenta ou framework que escolhermos, o processo geral d
 - Escrever scripts de teste: Os scripts de teste definem as ações que você deseja que os testes automatizados executem. Os scripts de teste podem ser escritos em uma variedade de linguagens, como JavaScript, Python ou Java.
 - Executar os scripts de teste: Os scripts de teste podem ser executados manualmente ou automaticamente. Você pode usar uma ferramenta de integração contínua (CI) para executar os scripts de teste automaticamente sempre que fizer uma alteração no código do seu site.
 - Analisar os resultados do teste: Os resultados do teste informam se os testes foram bem-sucedidos ou falharam. Se um teste falhar, você precisará investigar o problema e corrigi-lo antes de prosseguir.
+ 
 
-### 🔩 Analise os testes de ponta a ponta
+## 🛠️ Construído com
+O nosso projeto foi usado as seguintes ferramentas:
+-Figma
+-Visual Studio Code: HTML, CSS e README.md
+
+ ## ✒️ Autores
+ Bruno Miguel Sarti Miranda
+ William da Silva Pacini Ribeiro de Jesus
+
+ ## 🎁 Expressões de gratidão
+ gostaria de agradecer a todos que acreditaram em nosso projeto 💗
+ gostaria de chamar nosso mestre Lucas Correa para tomar uma cerveja 🍺
+
+ ⌨️ com ❤️ por Bruno & Will  😊
